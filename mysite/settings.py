@@ -25,7 +25,7 @@ SECRET_KEY = '$^xksz4m!pfnrk^oiud7t2a$e+tn%r-qxt$zwy%hcd-3y3oil+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [stargasm.pythonanywhere.com]
 
 
 # Application definition
